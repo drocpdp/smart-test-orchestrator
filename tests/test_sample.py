@@ -1,4 +1,4 @@
 
 def test_addition():
-    #assert 1 + 1 == 2
-    assert 1 + 1 == 4 # test fail
+    assert 1 + 1 == 2
+    #assert 1 + 1 == 4 # test fail
