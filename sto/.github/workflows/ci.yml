@@ -2,9 +2,9 @@ name: CI - Smart Test Orchestrator
 
 on: 
   push:
-    branches: [ main, v0 ]
+    branches: [ * ]
   pull_request:
-    branches: [ main, v0 ]
+    branches: [ * ]
 
 jobs:
   test:
